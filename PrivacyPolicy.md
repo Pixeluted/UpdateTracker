@@ -11,4 +11,4 @@ The data we collect are encrypted and secured in our dedicated servers.
 
 ### How can you get your data wiped from our database?
 
-You may request data deletion at one of bot developers on discord so etqjuylz29vbw2iv2 or \_pixeluted\_, once done we will not be able to restore any data we deleted.
+You may request data deletion at one of bot developers on discord so \_pixeluted\_, once done we will not be able to restore any data we deleted.
